@@ -11,7 +11,7 @@ agronomic factors. Predicting yield in advance remains a major challenge
 due to the complex interaction of these variables.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## **🚀 Live Demo**
-👉 [Click here to try the app](#)  ← replace with your Streamlit Cloud URL
+👉 https://paddy-yield-prediction-rmyzqtgpwdxqy7wasrqb7z.streamlit.app/
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## **Project Structure**
 ```
